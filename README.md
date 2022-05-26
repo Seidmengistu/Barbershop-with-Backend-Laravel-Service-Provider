@@ -1,1 +1,1 @@
-# Barbershop-with-Backend-Laravel-Service-Provider Mobile App
+# shop-with-Backend-Laravel-Service-Provider Mobile App
